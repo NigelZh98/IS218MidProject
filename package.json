@@ -1,0 +1,23 @@
+{
+  "name": "is218midproject",
+  "version": "1.0.0",
+  "description": "This is my Midterm project for IS218 class using node, playwright, and git.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NigelZh98/IS218MidProject.git"
+  },
+  "keywords": [
+    "Midterm",
+    "project"
+  ],
+  "author": "Ligao Zheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NigelZh98/IS218MidProject/issues"
+  },
+  "homepage": "https://github.com/NigelZh98/IS218MidProject#readme"
+}
